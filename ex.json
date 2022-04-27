@@ -1,0 +1,47 @@
+{"LogoBanner": {
+  "height": 300,
+  "goToLink": "www.google.com",
+  "image": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+},
+ "DefaultCard": {
+   "bodyName": "JSON Body Name",
+   "childName": "JSON Child Name",
+   "headName": "JSON Head Name",
+   "backgroundColor": "lime50",
+   "headNameColor": "amber500"
+ },
+  "DefaultTopbar": {
+    "image": "https://images.unsplash.com/photo-1640622308013-b9337424e401?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  "Breadcrumb":{
+    "routes": ["Main page", "Settings page"]
+  },
+  "DefaultButton" : {
+    "buttonText": "Download excel",
+    "onPressed": "ACTION",
+    "sizeOfButton": "m",
+    "variant": "ghost",
+    "icon": "qrcode"
+  },
+  "DefaultDropdown" : {
+    "listValues": ["option1","option222222","option3"],
+    "hintText": "New hint text",
+    "label": "Label1"
+  },
+  "DefaultInput" : {
+    "labelText": "Label Text 1",
+    "hintText": "New hint text",
+    "keyboardType": "number"
+  },
+  "DefaultModal" : {
+    "title": "TitleText 1",
+    "hintText": "New hint text",
+    "icon": "academic-cap"
+  },
+  "SizedText" : {
+    "text": "Sized Text 1"
+  },
+  "DefaultSwitch" : {
+    "label": "Switch Text 1"
+  }
+}
